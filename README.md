@@ -1,6 +1,8 @@
 # effective_flutter
 
-A new Flutter project.
+![5424742406261167822_121](https://github.com/RoGad/effective_flutter/assets/83944231/c472e207-c2d9-40ae-be7f-2d12e521cae0)
+
+Была использована последняя версия Flutter
 
 ## Getting Started
 
